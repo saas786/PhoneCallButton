@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="color_buttonbg">#FF402B80</color>
+    <color name="color_buttontext">#FF000000</color>
+    <color name="color_bg">#FFBADCFF</color>
+    <color name="color_message">#FFFFCC32</color>
+</resources>
